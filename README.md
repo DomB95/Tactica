@@ -1,2 +1,2 @@
-#Tactica
+#Tactica#
 Tactica is a turn-based strategy game where classic tactics meet modern design. Inspired by the structure of chess and the asymmetry of real-time strategy games like StarCraft, Tactica features dynamic battlefields, unique factions, and evolving win conditions. Each faction has its own commander, unit abilities, and playstyle, challenging players to adapt, strategize, and dominate. Designed for depth, balance, and replayability, Tactica redefines what a grid-based tactics game can be.
